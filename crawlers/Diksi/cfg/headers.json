@@ -1,0 +1,15 @@
+{
+    "accept": "*/*",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+    "bx-ajax": "true",
+    "cookie": "_ym_uid=1674666078746037980; _ym_d=1674666078; __ddg1_=NDAgEeNJ8GflD7hHorEs; BITRIX_SM_PROJECT_REGION_ID=21; BITRIX_SID=367H3L7R41; _ym_debug=null; usecookie=accept; _ga=GA1.3.1646809603.1674666078; tmr_lvid=bc5bf1f46b2ccbf438bd0f0b1fabfa1d; tmr_lvidTS=1675015175101; BX_USER_ID=38c70cbf3950a7a6a0dca208ce946056; reg-closed=accept; pickup_popup=0; private=0; alco_agreement=no; _gid=GA1.2.201519798.1676993974; _ym_visorc=b; _ym_isad=2; BITRIX_SM_SALE_UID=38d95e86000c81780974f364cbfbef47; BITRIX_CONVERSION_CONTEXT_s1=%7B%22ID%22%3A4%2C%22EXPIRE%22%3A1677013140%2C%22UNIQUE%22%3A%5B%22conversion_visit_day%22%5D%7D; _gid=GA1.3.201519798.1676993974; PHPSESSID=323399f438bc1eb29fd47e9a7cd3d516; is_spb=1; store_id=2373; address=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20; coords=60.044859%2C30.351055; distance=815; price_id=82; alco_allow=0; is_m=false; countmobile=9; LOYALTYCARD=4; _dc_gtm_UA-172001173-1=1; _gat_UA-172001173-1=1; _ga=GA1.1.1646809603.1674666078; _ga_J3JT2KMN08=GS1.1.1676993989.40.1.1676994535.51.0.0; tmr_detect=0%7C1676994535754",
+    "referer": "https://dostavka.dixy.ru/catalog/voda_soki_napitki_1/?PAGEN_1=2",
+    "sec-ch-ua": "\"Not_A Brand\";v=\"99\", \"Google Chrome\";v=\"109\", \"Chromium\";v=\"109\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+}

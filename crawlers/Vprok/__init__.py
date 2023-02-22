@@ -1,1 +1,1 @@
-from .Vprok import VprokSpider
+from .Vprok import VprokParser

@@ -1,0 +1,62 @@
+[
+    {
+        "file": "magnit_1.json",
+        "division": 391958,
+        "shop_code": 391958,
+        "address": "Санкт-Петербург, проспект Художников, 12"
+    },
+    {
+        "file": "magnit_2.json",
+        "division": 279915,
+        "shop_code": 279915,
+        "address": "Санкт-Петербург, Гражданский проспект, 41к2Б"
+    },
+    {
+        "file": "magnit_3.json",
+        "division": 784311,
+        "shop_code": 784311,
+        "address": "Санкт-Петербург, Гатчинская улица, 7"
+    },
+    {
+        "file": "magnit_4.json",
+        "division": 491531,
+        "shop_code": 491531,
+        "address": "Санкт-Петербург, улица Беринга, 11"
+    },
+    {
+        "file": "magnit_5.json",
+        "division": 973686,
+        "shop_code": 973686,
+        "address": "Санкт-Петербург, Лиговский проспект, 2-4"
+    },
+    {
+        "file": "magnit_6.json",
+        "division": 279915,
+        "shop_code": 279915,
+        "address": "Санкт-Петербург, проспект Непокорённых, 63к13с4"
+    },
+    {
+        "file": "magnit_7.json",
+        "division": 784338,
+        "shop_code": 784338,
+        "address": "Санкт-Петербург, Индустриальный проспект, 42"
+    },
+    {
+        "file": "magnit_8.json",
+        "division": 784198,
+        "shop_code": 784198,
+        "address": "Санкт-Петербург, Морской переулок, 3Р"
+    },
+    {
+        "file": "magnit_9.json",
+        "division": 304435,
+        "shop_code": 304435,
+        "address": "Санкт-Петербург, Народная улица, 16"
+    },
+    {
+        "file": "magnit_10.json",
+        "division": 793078,
+        "shop_code": 793078,
+        "address": "Санкт-Петербург, улица Турку, 10к1"
+    }
+]

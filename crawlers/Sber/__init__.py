@@ -1,0 +1,1 @@
+from .Sber import SberSpider

@@ -1,4 +1,4 @@
-#!/Users/borokoko/Crawlers/env/bin/python3.11
+#!/Users/kirillparnikov/sber/HSE-Lab/env/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys

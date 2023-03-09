@@ -4,6 +4,7 @@ from crawlers.Diksi import DiksiSpider
 from crawlers.Vprok import VprokParser
 from crawlers.Magnit import MagnitSpider
 from crawlers.Svetofor import SvetoforSpider
+from crawlers.Sber import SberSpider
 
 import scrapy
 import argparse
@@ -46,6 +47,8 @@ def main():
             run_scrapy_spider(MagnitSpider, args.o)
         case "svetofor":
             run_scrapy_spider(SvetoforSpider, args.o)
+        case "sber":
+            run_scrapy_spider(SberSpider, args.o)
 
 
 if __name__ == "__main__":

@@ -22,3 +22,4 @@ class DiksiProduct(scrapy.Item):
         output_processor=TakeFirst(),
     )
     category = scrapy.Field(output_processor=TakeFirst())
+    subcategory = scrapy.Field(output_processor=TakeFirst())
